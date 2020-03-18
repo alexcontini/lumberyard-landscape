@@ -11,7 +11,7 @@ landscape:
             project: foundationproject
             repo_url: 'https://github.com/aws/lumberyard'
             logo: lumberyard.svg
-            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
+            crunchbase: 'https://www.crunchbase.com/organization/lumberyard-foundation'
       - subcategory:
         name: Tools
         items:

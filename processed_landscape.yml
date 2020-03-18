@@ -12,23 +12,20 @@ landscape:
             project: foundationproject
             repo_url: 'https://github.com/aws/lumberyard'
             logo: lumberyard.svg
-            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
+            crunchbase: 'https://www.crunchbase.com/organization/lumberyard-foundation'
             crunchbase_data:
-              name: GraphQL Foundation
-              description: Enabling widespread adoption of GraphQL to help accelerate development and the surrounding ecosystem
+              name: Lumberyard Foundation
+              description: Lumberyard Foundation
               num_employees_min: 1
               num_employees_max: 10
-              homepage: 'https://foundation.graphql.org'
+              homepage: 'https://lumberyard.foundation'
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/GraphQL'
+              twitter: null
               linkedin: null
-              acquisitions:
-                - date: '2018-11-06'
-                  acquiree: GraphQL
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
+              acquisitions: []
+              parents: []
             github_data:
               languages:
                 - name: Python
@@ -112,8 +109,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-06-26T16:15:00.000Z
       - subcategory:
         name: Tools
         items:

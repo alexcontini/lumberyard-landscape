@@ -183,5 +183,5 @@ big_picture:
             title: Lumberyard Foundation Logo
 test:
   header: Lumberyard Landscape
-  section: Lumberyard Foundation Member
-  logo: twitter.svg
+  section: Lumberyard Foundation Projects
+  logo: lumberyard.svg
