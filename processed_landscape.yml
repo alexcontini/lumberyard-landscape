@@ -1464,7 +1464,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-03-10T02:54:00.000Z
   - category:
-    name: GraphQL Foundation Member
+    name: Lumberyard Foundation Member
     subcategories:
       - subcategory:
         name: General
@@ -3018,10 +3018,10 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-03-09T20:50:37.000Z
   - category:
-    name: GraphQL Adopter
+    name: Lumberyard Adopter
     subcategories:
       - subcategory:
-        name: GraphQL Adopter
+        name: Lumberyard Adopter
         items:
           - item:
             name: 1stdibs (adopter)
