@@ -7,7 +7,7 @@ landscape:
         name: Engine
         items:
           - item:
-            name: Lumberyard
+            name: Lumberyard Project
             homepage_url: 'https://aws.amazon.com/lumberyard/'
             project: foundationproject
             repo_url: 'https://github.com/aws/lumberyard'
@@ -104,7 +104,7 @@ landscape:
               start_commit_link: /aws/lumberyard/commit/6b8dd98ad0e59b1817a79f6aaf5b89afb41b1086
               start_date: '2017-12-12T06:05:45Z'
             image_data:
-              fileName: lumberyard.svg
+              fileName: lumberyard-project.svg
               hash: ak53I89i0GCkUFsShxQWYnLlATaOAIADtXXZa6VUjpk=
             best_practice_data:
               badge: false
