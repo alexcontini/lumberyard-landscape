@@ -33,7 +33,7 @@ relation:
       children:
         - id: foundationproject
           label: Lumberyard Foundation Projects
-          prefix: Lumberyard
+          prefix: Lumberyard Foundation
           tag: Foundation Project
           color: '#3570af'
           big_picture_order: 1
