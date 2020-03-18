@@ -3,15 +3,15 @@ landscape:
     name: Projects
     subcategories:
       - subcategory:
-        name: Spec
+        name: Engine
         items:
           - item:
-            name: GraphQL Spec
-            homepage_url: 'https://graphql.org'
+            name: Lumberyard Project
+            homepage_url: 'https://aws.amazon.com/lumberyard/'
             project: foundationproject
-            repo_url: 'https://github.com/graphql/graphql-spec'
-            logo: graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
+            repo_url: 'https://github.com/aws/lumberyard'
+            logo: lumberyard.svg
+            crunchbase: 'https://www.crunchbase.com/organization/lumberyard-foundation'
       - subcategory:
         name: Tools
         items:
