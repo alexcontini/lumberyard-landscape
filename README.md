@@ -1,6 +1,6 @@
-[![Dependency Status](https://img.shields.io/david/graphql/graphql-landscape.svg?style=flat-square)](https://david-dm.org/graphql/graphql-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status)](https://app.netlify.com/sites/graphql-landscape/deploys)
+[![Dependency Status](https://img.shields.io/david/graphql/graphql-landscape.svg?style=flat-square)](https://david-dm.org/graphql/graphql-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/ef0036da-eb07-46c4-80bc-a5fb26cb863b/deploy-status)](https://app.netlify.com/sites/lumberyard-landscape/deploys)
 
-# GraphQL Landscape
+# Lumberyard Landscape
 
 ![Lumberyard Landscape Logo](https://landscape.graphql.org/images/left-logo.svg)
 
