@@ -148,12 +148,6 @@ landscape:
         name: General
         items:
           - item:
-            name: 8base (member)
-            homepage_url: 'https://8base.com'
-            logo: 8base.svg
-            twitter: 'https://twitter.com/8base'
-            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
-          - item:
             name: Airbnb (member)
             homepage_url: 'https://www.airbnb.com'
             logo: airbnb.svg
@@ -649,11 +643,6 @@ landscape:
             homepage_url: 'https://www.satispay.com'
             logo: satispay.svg
             crunchbase: 'https://www.crunchbase.com/organization/satispay'
-          - item:
-            name: Serverless
-            homepage_url: 'https://serverless.com/'
-            logo: serverless.svg
-            crunchbase: 'https://www.crunchbase.com/organization/serverless'
           - item:
             name: Shopify (adopter)
             homepage_url: 'https://www.shopify.com/'
