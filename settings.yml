@@ -109,22 +109,13 @@ big_picture:
         color: 'rgb(4,81,49)'
         fit_width: true
       - type: HorizontalCategory
-        category: Services
+        category: Community Gems
         rows: 3
-        width: 280
+        width: 605
         height: 160
         top: 0
         left: 345
         color: 'rgb(7,136,62)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Databases
-        rows: 3
-        width: 325
-        height: 160
-        top: 0
-        left: 645
-        color: 'rgb(79,121,13)'
         fit_width: true
       - type: HorizontalCategory
         category: Lumberyard Adopter

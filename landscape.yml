@@ -13,7 +13,7 @@ landscape:
             logo: lumberyard.svg
             crunchbase: 'https://www.crunchbase.com/organization/lumberyard-foundation'
       - subcategory:
-        name: Tools
+        name: Gems
         items:
           - item:
             name: Apollo Angular
@@ -95,10 +95,10 @@ landscape:
             logo: type-graphql.svg
             crunchbase: 'https://www.crunchbase.com/organization/typegraphql'
   - category:
-    name: Databases
+    name: Community Gems
     subcategories:
       - subcategory:
-        name: Databases
+        name: Community Gems
         items:
           - item:
             name: Arangodb
@@ -141,29 +141,6 @@ landscape:
             repo_url: 'https://github.com/YugaByte/yugabyte-db'
             logo: yugabyte.svg
             crunchbase: 'https://www.crunchbase.com/organization/yugabyte'
-  - category:
-    name: Services
-    subcategories:
-      - subcategory:
-        name: Services
-        items:
-          - item:
-            name: 8base
-            homepage_url: 'https://8base.com'
-            logo: 8base.svg
-            twitter: 'https://twitter.com/8base'
-            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
-          - item:
-            name: Apollo Server
-            homepage_url: 'https://www.apollographql.com/'
-            repo_url: 'https://github.com/apollographql/apollo-server'
-            logo: apollo-graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/meteor'
-          - item:
-            name: AWS AppSync
-            homepage_url: 'https://aws.amazon.com/appsync/'
-            logo: appsync.svg
-            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
   - category:
     name: Lumberyard Foundation Member
     subcategories:
