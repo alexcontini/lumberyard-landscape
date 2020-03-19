@@ -2,7 +2,7 @@
 
 # Lumberyard Landscape
 
-![Lumberyard Landscape Logo](https://landscape.graphql.org/images/left-logo.svg)
+![Lumberyard Landscape Logo](/images/left-logo.svg)
 
 - [Lumberyard Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
