@@ -142,6 +142,90 @@ landscape:
             logo: yugabyte.svg
             crunchbase: 'https://www.crunchbase.com/organization/yugabyte'
   - category:
+    name: Commercial Gems
+    subcategories:
+      - subcategory:
+        name: Commercial Gems
+        items:
+          - item:
+            name: Arangodb
+            homepage_url: 'https://www.arangodb.com/'
+            repo_url: 'https://github.com/arangodb/arangodb'
+            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+  - category:
+    name: Video Games
+    subcategories:
+      - subcategory:
+        name: Video Games
+        items:
+          - item:
+            name: Arangodb
+            homepage_url: 'https://www.arangodb.com/'
+            repo_url: 'https://github.com/arangodb/arangodb'
+            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+  - category:
+    name: Robotics Apps
+    subcategories:
+      - subcategory:
+        name: Robotics
+        items:
+          - item:
+            name: Arangodb
+            homepage_url: 'https://www.arangodb.com/'
+            repo_url: 'https://github.com/arangodb/arangodb'
+            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+  - category:
+    name: Simulation Apps
+    subcategories:
+      - subcategory:
+        name: Robotics
+        items:
+          - item:
+            name: Arangodb
+            homepage_url: 'https://www.arangodb.com/'
+            repo_url: 'https://github.com/arangodb/arangodb'
+            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+  - category:
+    name: Automotive Apps
+    subcategories:
+      - subcategory:
+        name: Automotive
+        items:
+          - item:
+            name: Arangodb
+            homepage_url: 'https://www.arangodb.com/'
+            repo_url: 'https://github.com/arangodb/arangodb'
+            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+  - category:
+    name: Energy Apps
+    subcategories:
+      - subcategory:
+        name: Energy
+        items:
+          - item:
+            name: Arangodb
+            homepage_url: 'https://www.arangodb.com/'
+            repo_url: 'https://github.com/arangodb/arangodb'
+            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/arangodb'                           
+  - category:
+    name: Media and Film Apps
+    subcategories:
+      - subcategory:
+        name: Media and Film Apps
+        items:
+          - item:
+            name: NBC News Digital (adopter)
+            homepage_url: 'https://www.nbc.com'
+            logo: nbc.svg
+            twitter: 'https://twitter.com/nbc'
+            crunchbase: 'https://www.crunchbase.com/organization/nbcuniversal'           
+  - category:
     name: Lumberyard Foundation Member
     subcategories:
       - subcategory:
