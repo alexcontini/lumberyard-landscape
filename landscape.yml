@@ -82,30 +82,12 @@ landscape:
             repo_url: 'https://github.com/Urigo/sofa'
             logo: sofa.svg
             crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: Tartiflette
-            homepage_url: 'https://tartiflette.io'
-            repo_url: 'https://github.com/tartiflette/tartiflette'
-            logo: tartiflette.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dailymotion'
-          - item:
-            name: TypeGraphQL
-            homepage_url: 'https://typegraphql.ml'
-            repo_url: 'https://github.com/MichalLytek/type-graphql'
-            logo: type-graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/typegraphql'
   - category:
     name: Community Gems
     subcategories:
       - subcategory:
         name: Community Gems
         items:
-          - item:
-            name: Arangodb
-            homepage_url: 'https://www.arangodb.com/'
-            repo_url: 'https://github.com/arangodb/arangodb'
-            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
           - item:
             name: Dgraph
             homepage_url: 'https://dgraph.io/'
@@ -118,29 +100,6 @@ landscape:
             repo_url: 'https://github.com/edgedb/edgedb'
             logo: edgedb.svg
             crunchbase: 'https://www.crunchbase.com/organization/magicstack'
-          - item:
-            name: Fauna
-            homepage_url: 'https://fauna.com/'
-            logo: fauna.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fauna'
-          - item:
-            name: Hasura GraphQL Engine
-            homepage_url: 'https://hasura.io'
-            repo_url: 'https://github.com/hasura/graphql-engine'
-            logo: 'https://landscape.cncf.io/logos/hasura-graph-ql-engine.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/hasura'
-          - item:
-            name: Neo4j
-            homepage_url: 'https://neo4j.com/'
-            repo_url: 'https://github.com/neo4j/neo4j'
-            logo: neo4j.svg
-            crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
-          - item:
-            name: YugabyteDB
-            homepage_url: 'https://www.yugabyte.com/'
-            repo_url: 'https://github.com/YugaByte/yugabyte-db'
-            logo: yugabyte.svg
-            crunchbase: 'https://www.crunchbase.com/organization/yugabyte'
   - category:
     name: Commercial Gems
     subcategories:
@@ -148,11 +107,11 @@ landscape:
         name: Commercial Gems
         items:
           - item:
-            name: Arangodb
-            homepage_url: 'https://www.arangodb.com/'
-            repo_url: 'https://github.com/arangodb/arangodb'
-            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+            name: YugabyteDB
+            homepage_url: 'https://www.yugabyte.com/'
+            repo_url: 'https://github.com/YugaByte/yugabyte-db'
+            logo: yugabyte.svg
+            crunchbase: 'https://www.crunchbase.com/organization/yugabyte'
   - category:
     name: Video Games
     subcategories:
@@ -160,11 +119,11 @@ landscape:
         name: Video Games
         items:
           - item:
-            name: Arangodb
-            homepage_url: 'https://www.arangodb.com/'
-            repo_url: 'https://github.com/arangodb/arangodb'
-            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+            name: Neo4j
+            homepage_url: 'https://neo4j.com/'
+            repo_url: 'https://github.com/neo4j/neo4j'
+            logo: neo4j.svg
+            crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
   - category:
     name: Robotics Apps
     subcategories:
@@ -172,11 +131,11 @@ landscape:
         name: Robotics
         items:
           - item:
-            name: Arangodb
-            homepage_url: 'https://www.arangodb.com/'
-            repo_url: 'https://github.com/arangodb/arangodb'
-            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+            name: Hasura GraphQL Engine
+            homepage_url: 'https://hasura.io'
+            repo_url: 'https://github.com/hasura/graphql-engine'
+            logo: 'https://landscape.cncf.io/logos/hasura-graph-ql-engine.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/hasura'
   - category:
     name: Simulation Apps
     subcategories:
@@ -184,11 +143,10 @@ landscape:
         name: Robotics
         items:
           - item:
-            name: Arangodb
-            homepage_url: 'https://www.arangodb.com/'
-            repo_url: 'https://github.com/arangodb/arangodb'
-            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+            name: Fauna
+            homepage_url: 'https://fauna.com/'
+            logo: fauna.svg
+            crunchbase: 'https://www.crunchbase.com/organization/fauna'
   - category:
     name: Automotive Apps
     subcategories:
@@ -196,11 +154,11 @@ landscape:
         name: Automotive
         items:
           - item:
-            name: Arangodb
-            homepage_url: 'https://www.arangodb.com/'
-            repo_url: 'https://github.com/arangodb/arangodb'
-            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+            name: TypeGraphQL
+            homepage_url: 'https://typegraphql.ml'
+            repo_url: 'https://github.com/MichalLytek/type-graphql'
+            logo: type-graphql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/typegraphql'
   - category:
     name: Energy Apps
     subcategories:
@@ -208,11 +166,11 @@ landscape:
         name: Energy
         items:
           - item:
-            name: Arangodb
-            homepage_url: 'https://www.arangodb.com/'
-            repo_url: 'https://github.com/arangodb/arangodb'
-            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/arangodb'                           
+            name: Tartiflette
+            homepage_url: 'https://tartiflette.io'
+            repo_url: 'https://github.com/tartiflette/tartiflette'
+            logo: tartiflette.svg
+            crunchbase: 'https://www.crunchbase.com/organization/dailymotion'                         
   - category:
     name: Media and Film Apps
     subcategories:
@@ -677,12 +635,6 @@ landscape:
             stock_ticker: ADBE
             logo: magento.svg
             crunchbase: 'https://www.crunchbase.com/organization/magento'
-          - item:
-            name: NBC News Digital (adopter)
-            homepage_url: 'https://www.nbc.com'
-            logo: nbc.svg
-            twitter: 'https://twitter.com/nbc'
-            crunchbase: 'https://www.crunchbase.com/organization/nbcuniversal'
           - item:
             name: New Relic (adopter)
             homepage_url: 'https://www.newrelic.com/'
